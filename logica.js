@@ -1,6 +1,6 @@
 let homem1 = 70
 let homem2 = 60
-let mulher1 = 20
+let mulher1 = 50
 let mulher2 = 30
 if(homem1 > homem2 && mulher1 < mulher2){
     soma = homem1 + mulher1
